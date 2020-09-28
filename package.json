@@ -1,0 +1,16 @@
+{
+  "name": "ssl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stuartstevenlittle/ssl.git",
+  "author": "Stuart <stuart@exelwines.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.66",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
