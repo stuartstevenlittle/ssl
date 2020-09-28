@@ -1,0 +1,8 @@
+Change date on EIF to be "end of Thu night"
+Make 5 min visualisation track
+Build SSL:
+- Serverless functions
+- Introduction to Gatsby
+- Intermediate Gatsby with Gatsby Themes
+- F:\Learning\Miscellaneous\Vue\Full-Stack Vue with GraphQL - The Ultimate Guide\
+--> Will have Digital Garden at SSL.com on netlify Pro
