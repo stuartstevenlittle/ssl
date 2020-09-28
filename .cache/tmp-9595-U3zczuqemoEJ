@@ -1,0 +1,1 @@
+require("/mnt/c/Users/Stuart/Code/ssl/node_modules/gatsby/dist/utils/telemetry-server.js").default(8787)

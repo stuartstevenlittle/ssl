@@ -1,0 +1,5 @@
+
+    const cmd = require("/mnt/c/Users/Stuart/Code/ssl/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":8786,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/mnt/c/Users/Stuart/Code/ssl","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"ssl","version":"1.0.0","main":"index.js","repository":"git@github.com:stuartstevenlittle/ssl.git","author":"Stuart <stuart@exelwines.co.uk>","license":"MIT","scripts":{"dev":"gatsby develop"},"dependencies":{"gatsby":"^2.24.66","react":"^16.13.1","react-dom":"^16.13.1"}},"report":{},"useYarn":true,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
